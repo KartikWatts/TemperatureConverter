@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="title">Temperature Converter</string>
+    <string name="entertext">Enter temperature</string>
+    <string name="celsius_btn">C</string>
+    <string name="fer_btn">F</string>
+    <string name="result"></string>
+</resources>
